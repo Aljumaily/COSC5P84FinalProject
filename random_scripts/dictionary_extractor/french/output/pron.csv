@@ -1,0 +1,324 @@
+form,tags
+Leurs Altesses,['plural']
+Leurs Excellences,['plural']
+Leurs Majestés,['plural']
+Sa Majesté,
+Sa Majesté Impériale,['alternative']
+Sa Majesté impériale,
+Son Altesse,
+Son Excellence,
+Vos Altesses,['plural']
+Vos Courtoisies,['plural']
+Vos Excellences,['plural']
+Vos Grandeurs,['plural']
+Vos Grâces,['plural']
+Vos Majestés,['plural']
+Vos Majestés Impériales,['plural']
+Vos Révérences,['plural']
+Vostre Majesté,
+Votre Altesse,
+Votre Courtoisie,
+Votre Excellence,
+Votre Grandeur,
+Votre Grâce,
+Votre Majesté,
+Votre Majesté Impériale,
+Votre Révérence,
+a,
+al,
+al gender-neutral,['canonical']
+alle,
+als,['plural']
+aucun,
+aucune,['feminine']
+auquel,
+autre,
+autre chose,
+autrui,
+auxquelles,"['feminine', 'plural']"
+auxquels,"['masculine', 'plural']"
+bibi,
+boro,['alternative']
+bôrô,
+c',
+c't,
+c'tte,
+ce,['plural']
+ce que,
+ce qui,
+ceci,
+cela,
+celle,['feminine']
+celle-ci,['feminine']
+celle-là,['feminine']
+celles,"['feminine', 'plural']"
+celles-ci,"['feminine', 'plural']"
+celles-là,"['feminine', 'plural']"
+celleux,['plural']
+cellui,['singular']
+celui,
+celui-ci,
+celui-là,
+celuy,
+celà,
+certains,
+ceste,
+ceulles,['plural']
+ceux,"['masculine', 'plural']"
+ceux-ci,"['masculine', 'plural']"
+ceux-là,"['masculine', 'plural']"
+ch',
+chacun,
+chacune,['feminine']
+ch’,['canonical']
+cézigue,
+c’,['alternative']
+c’,"['canonical', 'feminine', 'masculine']"
+c’t,"['canonical', 'masculine']"
+c’tte,"['canonical', 'feminine']"
+d'aucuns,
+de laquelle,['feminine']
+desquelles,"['feminine', 'plural']"
+desquels,"['masculine', 'plural']"
+dont,
+duquel,
+dégun,
+d’ aucuns,"['canonical', 'masculine', 'plural']"
+ej,
+elle,['emphatic']
+elle,['singular']
+elle-même,
+elles,['emphatic']
+elles,['plural']
+elles-mêmes,['plural']
+ellesmêmes,
+elleux,['emphatic']
+elleux,['plural']
+elleux gender-neutral,"['canonical', 'plural']"
+ellui,['emphatic']
+ellui,['singular']
+en,
+eux,['emphatic']
+eux-autres,
+eux-mêmes,
+fous,
+grand monde,
+grand-chose,
+grand’chose,['alternative']
+icelle,['feminine']
+icelles,"['feminine', 'plural']"
+icelui,
+iceux,"['masculine', 'plural']"
+iel,['singular']
+iel gender-neutral,['canonical']
+ielle,['alternative']
+ielles,['plural']
+iels,['plural']
+iels gender-neutral,"['canonical', 'plural']"
+il,['singular']
+il y en a des qui,
+ils,['plural']
+j',
+je,['singular']
+j’,['canonical']
+koi,
+l',
+l'on,
+l'un,
+l'un l'autre,
+l'une l'autre,
+la,['feminine']
+la,['accusative']
+la leur,['feminine']
+la mienne,['feminine']
+la nôtre,['feminine']
+la sienne,['feminine']
+la tienne,['feminine']
+la vôtre,['feminine']
+lae,['accusative']
+lae,['alternative']
+laquelle,['feminine']
+le,['accusative']
+le leur,
+le mien,
+le nôtre,
+le sien,
+le tien,
+le vôtre,
+lea,['accusative']
+lea gender-neutral,['canonical']
+lequel,
+les,['accusative']
+les,['plural']
+les,"['feminine', 'masculine', 'plural']"
+les leurs,['plural']
+les miennes,"['feminine', 'plural']"
+les miens,"['masculine', 'plural']"
+les nôtres,['plural']
+les siennes,"['feminine', 'plural']"
+les siens,"['masculine', 'plural']"
+les tiennes,"['feminine', 'plural']"
+les tiens,"['masculine', 'plural']"
+les unes les autres,"['feminine', 'plural']"
+les uns,['plural']
+les uns après les autres,
+les uns les autres,"['masculine', 'plural']"
+les vôtres,['plural']
+lesquelles,"['feminine', 'plural']"
+lesquels,"['masculine', 'plural']"
+leur,['dative']
+leur,"['determiner', 'possessive']"
+li,
+lu,['accusative']
+lui,['dative']
+lui,['emphatic']
+lui-même,
+læ,
+l’,"['canonical', 'feminine', 'masculine']"
+l’ on,['canonical']
+l’ un,"['canonical', 'masculine']"
+l’ un l’ autre,"['canonical', 'masculine']"
+l’on,['alternative']
+l’une l’autre,"['canonical', 'feminine', 'singular']"
+l’une l’autre,['feminine']
+m',
+ma pomme,
+maint,
+me,
+moi,['emphatic']
+moi-même,
+mon,"['determiner', 'possessive']"
+moé,['alternative']
+mézigue,
+m’,['canonical']
+n'imp,
+n'importe laquelle,
+n'importe lequel,
+n'importe lesquelles,
+n'importe lesquels,
+n'importe qui,
+n'importe quoi,
+nawak,
+notre,"['determiner', 'possessive']"
+nous,['emphatic']
+nous,['plural']
+nous autres,
+nous-autres,['alternative']
+nous-mêmes,
+nul,
+nulle,['feminine']
+n’ imp,['canonical']
+n’ importe laquelle,"['canonical', 'feminine']"
+n’ importe lequel,"['canonical', 'masculine']"
+n’ importe lesquelles,"['canonical', 'feminine', 'plural']"
+n’ importe lesquels,"['canonical', 'masculine', 'plural']"
+n’ importe qui,['canonical']
+n’ importe quoi,['canonical']
+n’importe laquelle,['feminine']
+n’importe lesquelles,"['feminine', 'plural']"
+n’importe lesquels,"['masculine', 'plural']"
+on,
+oualou,['alternative']
+pas mal,
+personne,
+qq1,
+qqc,
+qqch,['alternative']
+qqn,
+qu',
+qu'est-ce que,
+qu'est-ce qui,
+quantième,
+que,
+quel,
+quelle,['feminine']
+quelles,"['feminine', 'plural']"
+quelqu'un,
+quelqu'une,
+quelque chose,
+quelques choses,['plural']
+quelques-unes,"['feminine', 'plural', 'rare']"
+quelques-uns,"['masculine', 'plural']"
+quelqu’ un,"['canonical', 'masculine']"
+quelqu’une,['canonical']
+quelqu’une,"['feminine', 'rare']"
+quels,"['masculine', 'plural']"
+qui,
+qui que ce fût,['alternative']
+qui que ce puisse être,
+qui que ce pût être,
+qui que ce soit,
+quiconque,
+quid,
+quoi,
+quoi que,
+quoi que ce soit,
+quoy,['alternative']
+qu’,['canonical']
+qu’ est-ce que,['canonical']
+qu’ est-ce qui,['canonical']
+rien,
+rien de rien,
+rien de tel,
+rien du tout,
+s',
+se,
+soi,
+soi-même,
+son,"['determiner', 'possessive']"
+s’,['before-vowel']
+s’,['canonical']
+t',
+te,
+tel,
+tes zigues,['alternative']
+toi,['emphatic']
+toi-même,
+ton,"['determiner', 'possessive']"
+tous,['plural']
+tous les deux,
+toussa,
+tout,
+tout et n'importe quoi,
+tout et n’ importe quoi,['canonical']
+tout le monde,
+tout un chacun,
+tout ça,
+toé,['alternative']
+tu,"['informal', 'singular']"
+tésigue,['alternative']
+tézigue,
+t’,['canonical']
+un,
+un tant soit peu,
+un tel,
+une,['feminine']
+une telle,['feminine']
+unes,"['feminine', 'plural']"
+unetelle,['feminine']
+uns,"['masculine', 'plural']"
+untel,['masculine']
+untel,['alternative']
+votre,"['determiner', 'possessive']"
+vous,['emphatic']
+vous,['plural']
+vous autres,
+vous-autres,['alternative']
+vous-même,
+vous-mêmes,
+wallou,['alternative']
+walou,
+y,
+y en a des qui,['alternative']
+yel,['alternative']
+yé,
+à laquelle,['feminine']
+à moi,
+âme qui vive,
+ç',
+ça,
+çui,['alternative']
+çui-ci,
+çui-là,
+ç’,['alternative']
+ç’,"['canonical', 'feminine', 'masculine']"

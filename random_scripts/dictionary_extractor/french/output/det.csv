@@ -1,0 +1,130 @@
+form,tags
+aucun,
+aucune,['feminine']
+aucunes,"['feminine', 'plural']"
+aucuns,"['masculine', 'plural']"
+bien d'autres,
+bien d’ autres,"['canonical', 'feminine', 'masculine', 'plural']"
+ce,
+certain,
+certaine,['feminine']
+certaines,"['feminine', 'plural']"
+certains,"['masculine', 'plural']"
+ces,['plural']
+ceste,['alternative']
+cet,
+cette,['feminine']
+cettes,
+cête,['alternative']
+c’t,['alternative']
+c’tte,['alternative']
+d'autres,
+deux ou trois,
+d’autres,['plural']
+d’autres,"['canonical', 'plural']"
+ladite,['feminine']
+ledit,
+lesdites,"['feminine', 'plural']"
+lesdits,"['masculine', 'plural']"
+leur,
+leurdit,['masculine']
+leurdite,['feminine']
+leurs,['plural']
+leursdites,"['feminine', 'plural']"
+leursdits,"['masculine', 'plural']"
+ma,['feminine']
+madite,['feminine']
+maint,
+mainte,['feminine']
+maintes,"['feminine', 'plural']"
+maints,"['masculine', 'plural']"
+man,
+mes,['plural']
+mesdites,"['feminine', 'plural']"
+mesdits,"['masculine', 'plural']"
+mille et un,
+mon,
+mondit,['masculine']
+n'importe quel,
+nombre de,
+nos,['plural']
+nosdites,"['feminine', 'plural']"
+nosdits,"['masculine', 'plural']"
+nostre,['alternative']
+nostres,['plural']
+notre,['alternative']
+notredit,['masculine']
+notredite,['feminine']
+nul,
+nulle,['feminine']
+nôtre,['alternative']
+nôtres,['plural']
+n’ importe quel,"['canonical', 'masculine']"
+n’importe quelle,['feminine']
+n’importe quelles,"['feminine', 'plural']"
+n’importe quels,"['masculine', 'plural']"
+qq,
+quel,
+quel qu'ait été,
+quel qu'eût été,
+quel que fût,
+quel que soit,
+quel qu’ ait été,"['canonical', 'masculine']"
+quel qu’ eût été,"['canonical', 'masculine']"
+quelconque,
+quelle,['feminine']
+quelle que fût,['feminine']
+quelle que soit,['feminine']
+quelle qu’ait été,['feminine']
+quelle qu’eût été,['feminine']
+quelles,"['feminine', 'plural']"
+quelles que fussent,"['feminine', 'plural']"
+quelles que soient,"['feminine', 'plural']"
+quelles qu’aient été,"['feminine', 'plural']"
+quelles qu’eussent été,"['feminine', 'plural']"
+quelque,
+quelques,['plural']
+quels,"['masculine', 'plural']"
+quels que fussent,"['masculine', 'plural']"
+quels que soient,"['masculine', 'plural']"
+quels qu’aient été,"['masculine', 'plural']"
+quels qu’eussent été,"['masculine', 'plural']"
+sa,['feminine']
+sadite,['feminine']
+san,
+ses,['plural']
+sesdites,"['feminine', 'plural']"
+sesdits,"['masculine', 'plural']"
+son,
+sondit,['masculine']
+sound cet,['before-vowel']
+ta,['feminine']
+tadite,['feminine']
+tan,
+tant et plus,
+tes,['plural']
+tesdites,"['feminine', 'plural']"
+tesdites,"['masculine', 'plural']"
+tesdits,"['masculine', 'plural']"
+ton,['masculine']
+tondit,['masculine']
+tous,"['masculine', 'plural']"
+tous deux,
+tout,
+toute,['feminine']
+toutes,"['feminine', 'plural']"
+tu parles de,
+un autre,
+une autre,"['feminine', 'singular']"
+vos,
+vosdites,"['feminine', 'plural']"
+vosdits,"['masculine', 'plural']"
+vostre,['alternative']
+vostres,['plural']
+votre,['alternative']
+votredit,['masculine']
+votredite,['feminine']
+vous parlez de,['plural']
+vôtre,['alternative']
+vôtres,['plural']
+énormément,

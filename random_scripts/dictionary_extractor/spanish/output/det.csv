@@ -1,0 +1,162 @@
+form,tags
+algotra,['feminine']
+algotras,"['feminine', 'plural']"
+algotro,
+algotros,['plural']
+algun,['alternative']
+alguna,['feminine']
+algunas,"['feminine', 'plural']"
+alguno,['standard']
+alguno que otro,
+algunos,['plural']
+algún,
+algún que otro,
+aquel,
+aquella,['feminine']
+aquellas,
+aquellos,"['masculine', 'plural']"
+aquesa,['feminine']
+aquesas,"['feminine', 'plural']"
+aquese,
+aquesos,"['masculine', 'plural']"
+aquesta,['feminine']
+aquestas,"['feminine', 'plural']"
+aqueste,
+aquesto,['neuter']
+aquestos,['plural']
+aquése,
+aquésta,
+aquéste,
+aquéstos,
+cada,
+cierta,['feminine']
+ciertas,"['feminine', 'plural']"
+cierto,
+ciertos,['plural']
+cualesquier,['plural']
+cualesquiera,['plural']
+cualquier,
+cualquiera,['standard']
+cuanta,['feminine']
+cuantas,"['feminine', 'plural']"
+cuanto,
+cuantos,['plural']
+cuantísima,"['feminine', 'singular']"
+cuantísimas,"['feminine', 'plural']"
+cuantísimo,
+cuantísimos,"['masculine', 'plural']"
+cuya,['feminine']
+cuyas,"['feminine', 'plural']"
+cuyo,
+cuyos,"['masculine', 'plural']"
+cuál,
+cuánta,['feminine']
+cuántas,"['feminine', 'plural']"
+cuánto,
+cuántos,['plural']
+cúya,['feminine']
+cúyas,"['feminine', 'plural']"
+cúyo,['alternative']
+cúyos,"['masculine', 'plural']"
+dambas,"['feminine', 'plural']"
+dambos,
+demasiada,
+dicha,['feminine']
+dichas,"['feminine', 'plural']"
+dicho,
+dichos,"['masculine', 'plural']"
+dos que tres,
+esa,['feminine']
+esas,"['feminine', 'plural']"
+ese,
+esos,['plural']
+esta,['feminine']
+estas,"['feminine', 'plural']"
+este,
+estos,"['masculine', 'plural']"
+menos,['plural']
+mi,
+mis,['plural']
+mucha,['feminine']
+muchas,"['feminine', 'plural']"
+mucho,
+muchos,"['masculine', 'plural']"
+muchísima,"['feminine', 'singular']"
+muchísimas,"['feminine', 'plural']"
+muchísimo,
+muchísimos,"['masculine', 'plural']"
+más,['plural']
+mía,['feminine']
+mías,"['feminine', 'plural']"
+mío,
+míos,"['masculine', 'plural']"
+ninguna,['feminine']
+ningunas,"['feminine', 'plural']"
+ninguno,['standard']
+ningunos,"['masculine', 'plural']"
+ningún,
+nuestra,['feminine']
+nuestras,"['feminine', 'plural']"
+nuestro,
+nuestros,"['masculine', 'plural']"
+of singular,"['possessive', 'third-person']"
+of singular,"['possessive', 'second-person', 'singular']"
+of singular masculine,"['first-person', 'possessive', 'singular']"
+otra,['feminine']
+otras,"['feminine', 'plural']"
+otro,
+otros,['plural']
+pechá,
+poca,['feminine']
+pocas,"['feminine', 'plural']"
+poco,
+pocos,['plural']
+poquísimo,['superlative']
+qualquier,['alternative']
+qualquiera,['alternative']
+quanto,['alternative']
+quál,['alternative']
+quánto,['alternative']
+qué,
+sendas,"['feminine', 'plural']"
+sendos,
+su,
+sus,['plural']
+suya,['feminine']
+suyas,"['feminine', 'plural']"
+suyo,
+suyos,['plural']
+tan,
+tanta,"['feminine', 'singular']"
+tantas,"['feminine', 'plural']"
+tanto,
+tantos,"['masculine', 'plural']"
+tantísima,"['feminine', 'singular']"
+tantísimas,"['feminine', 'plural']"
+tantísimo,['superlative']
+tantísimos,"['masculine', 'plural']"
+to',
+toda,['feminine']
+todas,"['feminine', 'plural']"
+todes,
+todes gender-neutral,"['canonical', 'plural']"
+todito,['diminutive']
+todo,
+todos,"['masculine', 'plural']"
+todos y cada uno,
+tu,
+tus,
+tuya,['feminine']
+tuyas,"['feminine', 'plural']"
+tuyo,
+tuyos,['plural']
+una,['feminine']
+unas,"['feminine', 'plural']"
+unas pocas,"['feminine', 'plural']"
+uno,
+unos,['plural']
+unos pocos,
+vuestra,['feminine']
+vuestras,"['feminine', 'plural']"
+vuestro,
+vuestros,['plural']

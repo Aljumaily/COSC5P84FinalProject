@@ -1,0 +1,275 @@
+form,tags
+Padre,
+UU.,['alternative']
+Ud.,['alternative']
+Uds,
+Uds.,['plural']
+Uds.,['alternative']
+VV.,['alternative']
+Vd.,['alternative']
+Vds.,['alternative']
+Vmd.,
+algo,
+algo por el estilo,
+alguien,
+alguna,['feminine']
+alguna cosa,
+algunas,"['feminine', 'plural']"
+alguno,
+algunos,"['masculine', 'plural']"
+ambos,
+aquel,['alternative']
+aquella,['alternative']
+aquellas,['alternative']
+aquello,['neuter']
+aquellos,['alternative']
+aquesta,['feminine']
+aquestas,"['feminine', 'plural']"
+aqueste,
+aquesto,['neuter']
+aquestos,['plural']
+aquél,
+aquélla,['feminine']
+aquéllas,"['feminine', 'plural']"
+aquéllos,"['masculine', 'plural']"
+aquése,
+aquésta,
+aquéste,
+aquéstos,
+cada cual,
+cada quien,
+cada una,['feminine']
+cada uno,
+co,
+connosco,
+cual,
+cuales,['plural']
+cualesquiera,['plural']
+cualquiera,
+cuanto,
+cuál,
+cuáles,['plural']
+cuántas,
+cuántos,
+có,
+demás,
+do,
+donde,
+dos que tres,
+el cual,
+el que,
+el que sea,
+el uno al otro,
+ella,['feminine']
+ellas,"['feminine', 'plural']"
+ellas,['plural']
+elle,
+elle gender-neutral,['canonical']
+elles,['plural']
+elles gender-neutral,"['canonical', 'plural']"
+ello,['neuter']
+ellos,"['masculine', 'plural']"
+ellxs,
+esa,['feminine']
+esa,['alternative']
+esas,"['feminine', 'plural']"
+esas,['alternative']
+ese,['alternative']
+eso,['neuter']
+esos,"['masculine', 'plural']"
+esos,"['neuter', 'plural']"
+esos,['alternative']
+esso,
+esta,['feminine']
+esta,['alternative']
+estas,['alternative']
+estas,"['feminine', 'plural']"
+este,['alternative']
+este último,
+esto,['neuter']
+estos,"['masculine', 'plural']"
+estos,"['neuter', 'plural']"
+estos,['alternative']
+estotra,['feminine']
+estotras,"['feminine', 'plural']"
+estotro,
+estotros,"['masculine', 'plural']"
+ge,['alternative']
+k,
+la,
+la cual,['feminine']
+la que,['feminine']
+las,
+las cuales,"['feminine', 'plural']"
+las que,"['feminine', 'plural']"
+le,
+le gender-neutral,['canonical']
+les,['dative']
+lo,
+lo cual,['neuter']
+lo que,['neuter']
+los,
+los cuales,"['masculine', 'plural']"
+los que,"['masculine', 'plural']"
+m,
+me,
+menda,
+menda lerenda,
+miguel,
+miguelito,
+mio,
+mucha,['feminine']
+muchas,"['feminine', 'plural']"
+mucho,
+muchos,"['masculine', 'plural']"
+mí,
+mía,['feminine']
+mías,"['feminine', 'plural']"
+mío,
+míos,"['masculine', 'plural']"
+na,['alternative']
+na',['alternative']
+naa,['alternative']
+nada,
+nada de nada,
+nada más,
+nadie,
+nadien,['alternative']
+nadies,['alternative']
+nadita,
+naide,['alternative']
+naiden,['alternative']
+ni Dios,
+ni jota,
+ninguna,['feminine']
+ningunas,"['feminine', 'plural']"
+ninguno,
+ningunos,"['masculine', 'plural']"
+nos,
+nosotras,"['feminine', 'plural']"
+nosotras,['feminine']
+nosotres,
+nosotres gender-neutral,"['canonical', 'plural']"
+nosotros,"['masculine', 'plural']"
+nosotros,['masculine']
+nuestra,['feminine']
+nuestras,"['feminine', 'plural']"
+nuestro,
+nuestros,"['masculine', 'plural']"
+ná,['alternative']
+of singular masculine,"['first-person', 'possessive', 'singular']"
+os,
+osté,
+otra,['feminine']
+otras,"['feminine', 'plural']"
+otro,
+otros,['plural']
+q,
+qn,
+qual,['alternative']
+quales,['plural']
+qualquiera,['alternative']
+quanto,['alternative']
+que,
+que lo que,
+quel,
+qui,
+quien,
+quienes,['plural']
+quienesquiera,['plural']
+quienquiera,
+quién,
+quiénes,['plural']
+quál,['alternative']
+quáles,['plural']
+qué,
+se,
+sea cual fuere,
+so,
+sumercé,
+susmercedes,['plural']
+suya,['feminine']
+suyas,"['feminine', 'plural']"
+suyo,
+suyos,['plural']
+sí,
+sí mismo,
+tal,
+tales,"['feminine', 'masculine', 'plural']"
+tanto,['correlative-of']
+te,
+ti,
+to',
+todo,
+todo el mundo,
+todo mundo,['alternative']
+tuya,['feminine']
+tuyas,"['feminine', 'plural']"
+tuyo,
+tuyos,['plural']
+tí,
+tú,
+una,['feminine']
+unas,"['feminine', 'plural']"
+uno,['masculine']
+uno mismo,
+uno que otro,
+unos,['plural']
+usarced,
+usarcé,
+usencia,
+usencias,['plural']
+usted,['singular']
+usted,['alternative']
+ustedes,['plural']
+usté,
+ustés,
+usía,
+usías,['plural']
+vds,['alternative']
+vos,
+vosotras,['feminine']
+vosotres,
+vosotres gender-neutral,"['canonical', 'plural']"
+vosotros,['masculine']
+vuesa,['feminine']
+vuesa excelencia,['alternative']
+vuesa merced,['alternative']
+vuesa reverencia,['alternative']
+vuesa señoría,['alternative']
+vuesarced,
+vuesas,"['feminine', 'plural']"
+vuesasted,
+vueselencia,['alternative']
+vueso,['masculine']
+vueso,['singular']
+vuesos,['plural']
+vuestra,['feminine']
+vuestra excelencia,
+vuestra merced,
+vuestra reverencia,
+vuestra señoría,
+vuestras,"['feminine', 'plural']"
+vuestras excelencias,['plural']
+vuestras mercedes,['plural']
+vuestras reverencias,['plural']
+vuestras señorías,['plural']
+vuestro,
+vuestros,['plural']
+vusted,
+vustedes,['plural']
+vós,
+yo,
+ál,
+él,['masculine']
+ésa,['feminine']
+ésas,"['feminine', 'plural']"
+ése,
+éso,
+ésos,"['masculine', 'plural']"
+ésta,['feminine']
+éstas,"['feminine', 'plural']"
+éste,
+ésto,
+éstos,"['masculine', 'plural']"
+ídem,
